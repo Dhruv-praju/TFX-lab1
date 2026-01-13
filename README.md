@@ -4,6 +4,7 @@ TFX was unsucess on macOS. TFX runs successfully only on Linux x86 platforms.
 
 Reference:
 https://github.com/raminmohammadi/MLOps/blob/main/Labs/Tensorflow_Labs/TFX_Labs/TFX_Lab1/C2_W2_Lab_2_Feature_Engineering_Pipeline.ipynb
+
 https://www.tensorflow.org/tfx/guide/understanding_tfx_pipelines
 
 In this lab we will
